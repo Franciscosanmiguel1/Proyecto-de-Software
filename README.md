@@ -13,7 +13,7 @@ Repositorio oficial del proyecto de software.
 ## Documentación:
 
 - La documentación con los RQF-RQNF, Historias de Usuario, prototipos de alta fidelidad, procesos futuros, conclusiones y bibliografia está incluida en el documento entregado en la plataforma.
-- Manual tecnico
+- Manual tecnico incluido en la rama "Proyecto-de-software"
 
 ## Estudiante e Institución
 
