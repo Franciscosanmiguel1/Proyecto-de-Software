@@ -1,17 +1,22 @@
-# Proyecto de Software - Actividad 4
+# Proyecto de Software
 
-Repositorio con los diagramas y prototipos de baja fidelidad del proyecto.
+Repositorio oficial del proyecto de software.
 
 ## Contenido
 
 - Diagramas de modelado (clases, objetos, componentes, casos de uso, etc.)
 - Prototipos de baja fidelidad (mockups de interfaz)
+- Ejecutable de la aplicación documentada
+- Manual técnico
+- Código de la aplicación
 
-## Documentación completa
+## Documentación:
 
-La documentación con los RQF-RQNF, Historias de Usuario, prototipos de alta fidelidad, procesos futuros, conclusiones y bibliografia está incluida en el documento entregado en la plataforma.
+- La documentación con los RQF-RQNF, Historias de Usuario, prototipos de alta fidelidad, procesos futuros, conclusiones y bibliografia está incluida en el documento entregado en la plataforma.
+- Manual tecnico
 
-## Estudiante
+## Estudiante e Institución
 
 - Francisco Simon Sanmiguel
+- Corporación Universitaria Iberoamericana.
   
